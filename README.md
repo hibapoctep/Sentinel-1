@@ -33,7 +33,7 @@ Verificar que la versión de cada uno de los paquetes concide con la lista anter
 
 4.1 Anaconda page: [Anaconda](https://www.anaconda.com/products/individual)
 
-## 5. Instalar la API de Google Earth Engine API, Tensorflow y Keras.
+## 5. Instalar la API de Google Earth Engine, Tensorflow y Keras.
 
 5.1 Abrir 'Anaconda prompt'
 
