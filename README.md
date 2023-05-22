@@ -1,3 +1,5 @@
+![Alt text](https://github.com/hibapoctep/Sentinel-1/blob/cdccd033b77a0267c7f45c745e8e0fd53ecf766b/INTERREG-HIBA.jpg)
+
 # Deep learning network para monitorización de cultivos usando Sentinel-2 para análisis y Sentinel-1 para analisis y entrenamiento.
 
 Instalación Earth Engine API y Tensorflow en Windows 10
